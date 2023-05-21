@@ -1,0 +1,24 @@
+--------------------------------------------------------------------------------
+UbiArt Framework (ubiart.umod)
+--------------------------------------------------------------------------------
+
+Using this module you can pack and unpack the .IPK files of the games listed
+below.
+
+- Make sure you update your unpakke.ini with the contents you will find in the 
+unpakke.ini file provided with this archive.
+
+- Make sure the values in unpakke.ini are correctly set according to your game.
+
+Last but not least, USE THIS MODULE ON YOUR OWN RISK.
+
+--------------------------------------------------------------------------------
+Tested games:
+- (2012) Rayman® Origins (demo)
+- (2013) Rayman® Legends (demo)
+- (2014) Child of Light (demo)
+- (2016) Just Dance 2017 (PC, XBOX360, PS3, WII)
+
+--------------------------------------------------------------------------------
+Not tested games (but using the same engine):
+- ?
